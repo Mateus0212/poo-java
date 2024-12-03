@@ -19,6 +19,7 @@ public class Main {
             opcao = scanner.nextInt();
             scanner.nextLine(); // Consome a nova linha para evitar problemas de leitura
 
+           
             switch (opcao) {
                 case 1:
                     System.out.print("Nome do Aluno: ");
